@@ -94,8 +94,8 @@ text[7].textContent = siteContent['contact']['email'];
 text[8].textContent = siteContent['footer']['copyright'];
 
 //footer
-const footerContent = document.querySelector('.footer p');
-footerContent.textContent = siteContent['footer']['copyright'];
+// const footerContent = document.querySelector('.footer p');
+// footerContent.textContent = siteContent['footer']['copyright'];
 
 
 
