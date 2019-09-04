@@ -63,7 +63,7 @@ hdTitle.textContent = siteContent['cta']['h1'] ;
 hdTitle.style.fontSize = '6rem';
 
 //button
-const btn = document.getElementsByTagName('button');
+const btn = document.querySelector('button');
 btn.textContent = siteContent['cta']['button'];
 
 //main content header
